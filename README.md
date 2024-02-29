@@ -1,15 +1,15 @@
 
-                     Hi 👋, I'm SUJITH S
-        Self Taught JavaScript MERN Stack Developer
+                                   Hi 👋, I'm SUJITH S
+                        Self Taught JavaScript MERN Stack Developer
         
-🌱 I’m currently learning MERN Stack Development
+.🌱 I’m currently learning MERN Stack Development
 
-📫 How to reach me sujithsree587@gmail.com
+.📫 How to reach me sujithsree587@gmail.com
 
 
 
-Connect with me:
-sujith S
+
+
 
 
 <!---
