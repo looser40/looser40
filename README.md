@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @SUJITH S
-- 👀 I’m interested in REAL TIME WEB APP DEVELOPING...
-- 🌱 I’m currently learning ..FULL STACK DEVELOPER.
-  
-- 📫 How to reach me
-- LINKEDIN
-- linkedin.com/in/sujith-s-505277269
- ...
--
+
+                     Hi 👋, I'm SUJITH S
+        Self Taught JavaScript MERN Stack Developer
+        
+🌱 I’m currently learning MERN Stack Development
+
+📫 How to reach me sujithsree587@gmail.com
+
+
+
+Connect with me:
+sujith S
 
 
 <!---
